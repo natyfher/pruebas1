@@ -9,13 +9,13 @@ package git;
  *
  * @author dam
  */
-public class Git {
+public class calculadora {
+    private int num1;
+    private int num2;
 
-    
-    public static void main(String[] args) {
-        // TODO code application logic here
-        calculadora micalculadora= new calculadora(4,2);
-        //System.out.println(c.suma());/
+    public calculadora(int num1, int num2) {
+        this.num1 = num1;
+        this.num2 = num2;
     }
     
 }
