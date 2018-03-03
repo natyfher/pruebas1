@@ -17,8 +17,8 @@ public class Git {
         calculadora c= new calculadora(4,2);
         System.out.println(c.suma());
         System.out.println("SUMA2");
-        System.out.println("SUMA3"); 
-        System.out.println("SUMA3"); 
+        System.out.println("SUMA3");
+        
     }
     
 }
