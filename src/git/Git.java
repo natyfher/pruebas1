@@ -18,6 +18,7 @@ public class Git {
         System.out.println(c.suma());
         System.out.println("SUMA2");
         System.out.println("SUMA3"); 
+        System.out.println("SUMA3"); 
     }
     
 }
