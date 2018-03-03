@@ -23,4 +23,7 @@ public class calculadora {
     public int resta(){
         return num1-num2;
     }
+    public int multiplicacion(){
+        return num1*num2;
+    }
 }
